@@ -20,4 +20,4 @@ EXECUTOR executa as tarefas
 Exemplos abaixo de um executor local rodando
 
 
-![EXECUTOR](IMG\Captura de tela 2024-09-16 000353.png)
+![EXECUTOR](https://github.com/xing-wang-kai/APACHE_AIRFLOW_EXECUTORES/blob/main/IMG/Captura%20de%20tela%202024-09-16%20000353.png)
