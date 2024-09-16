@@ -1,0 +1,32 @@
+[2024-09-15 19:02:11,312] {processor.py:153} INFO - Started process (PID=9992) to work on /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-09-15 19:02:11,313] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-09-15 19:02:11,313] {logging_mixin.py:115} INFO - [2024-09-15 19:02:11,313] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-09-15 19:02:11,322] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-09-15 19:02:11,374] {logging_mixin.py:115} INFO - [2024-09-15 19:02:11,374] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_bash_operator
+[2024-09-15 19:02:11,382] {logging_mixin.py:115} INFO - [2024-09-15 19:02:11,382] {manager.py:508} INFO - Created Permission View: can read on DAG:example_bash_operator
+[2024-09-15 19:02:11,388] {logging_mixin.py:115} INFO - [2024-09-15 19:02:11,388] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_bash_operator
+[2024-09-15 19:02:11,388] {logging_mixin.py:115} INFO - [2024-09-15 19:02:11,388] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 19:02:11,393] {logging_mixin.py:115} INFO - [2024-09-15 19:02:11,393] {dag.py:2398} INFO - Creating ORM DAG for example_bash_operator
+[2024-09-15 19:02:11,399] {logging_mixin.py:115} INFO - [2024-09-15 19:02:11,399] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2024-09-14T00:00:00+00:00, run_after=2024-09-15T00:00:00+00:00
+[2024-09-15 19:02:11,412] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.102 seconds
+[2024-09-15 19:02:46,306] {processor.py:153} INFO - Started process (PID=10032) to work on /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-09-15 19:02:46,308] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-09-15 19:02:46,309] {logging_mixin.py:115} INFO - [2024-09-15 19:02:46,309] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-09-15 19:02:46,317] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-09-15 19:02:46,329] {logging_mixin.py:115} INFO - [2024-09-15 19:02:46,329] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 19:02:46,342] {logging_mixin.py:115} INFO - [2024-09-15 19:02:46,342] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2024-09-14T00:00:00+00:00, run_after=2024-09-15T00:00:00+00:00
+[2024-09-15 19:02:46,355] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.051 seconds
+[2024-09-15 19:03:19,411] {processor.py:153} INFO - Started process (PID=10075) to work on /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-09-15 19:03:19,413] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-09-15 19:03:19,414] {logging_mixin.py:115} INFO - [2024-09-15 19:03:19,414] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-09-15 19:03:19,428] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-09-15 19:03:19,442] {logging_mixin.py:115} INFO - [2024-09-15 19:03:19,442] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 19:03:19,456] {logging_mixin.py:115} INFO - [2024-09-15 19:03:19,455] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2024-09-14T00:00:00+00:00, run_after=2024-09-15T00:00:00+00:00
+[2024-09-15 19:03:19,470] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.066 seconds
+[2024-09-15 19:03:53,088] {processor.py:153} INFO - Started process (PID=10134) to work on /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-09-15 19:03:53,090] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-09-15 19:03:53,091] {logging_mixin.py:115} INFO - [2024-09-15 19:03:53,091] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-09-15 19:03:53,100] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-09-15 19:03:53,113] {logging_mixin.py:115} INFO - [2024-09-15 19:03:53,113] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 19:03:53,127] {logging_mixin.py:115} INFO - [2024-09-15 19:03:53,127] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2024-09-14T00:00:00+00:00, run_after=2024-09-15T00:00:00+00:00
+[2024-09-15 19:03:53,141] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.055 seconds

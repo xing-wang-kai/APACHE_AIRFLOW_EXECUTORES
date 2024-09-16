@@ -1,0 +1,25 @@
+[2024-09-15 19:02:29,795] {processor.py:153} INFO - Started process (PID=10014) to work on /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-09-15 19:02:29,796] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-09-15 19:02:29,796] {logging_mixin.py:115} INFO - [2024-09-15 19:02:29,796] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-09-15 19:02:29,804] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-09-15 19:02:29,867] {logging_mixin.py:115} INFO - [2024-09-15 19:02:29,867] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_complex
+[2024-09-15 19:02:29,876] {logging_mixin.py:115} INFO - [2024-09-15 19:02:29,876] {manager.py:508} INFO - Created Permission View: can read on DAG:example_complex
+[2024-09-15 19:02:29,883] {logging_mixin.py:115} INFO - [2024-09-15 19:02:29,883] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_complex
+[2024-09-15 19:02:29,883] {logging_mixin.py:115} INFO - [2024-09-15 19:02:29,883] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 19:02:29,888] {logging_mixin.py:115} INFO - [2024-09-15 19:02:29,888] {dag.py:2398} INFO - Creating ORM DAG for example_complex
+[2024-09-15 19:02:29,893] {logging_mixin.py:115} INFO - [2024-09-15 19:02:29,893] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-09-15 19:02:29,906] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.112 seconds
+[2024-09-15 19:03:05,713] {processor.py:153} INFO - Started process (PID=10055) to work on /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-09-15 19:03:05,714] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-09-15 19:03:05,715] {logging_mixin.py:115} INFO - [2024-09-15 19:03:05,715] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-09-15 19:03:05,724] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-09-15 19:03:05,741] {logging_mixin.py:115} INFO - [2024-09-15 19:03:05,741] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 19:03:05,757] {logging_mixin.py:115} INFO - [2024-09-15 19:03:05,757] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-09-15 19:03:05,769] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.058 seconds
+[2024-09-15 19:03:39,671] {processor.py:153} INFO - Started process (PID=10107) to work on /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-09-15 19:03:39,673] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-09-15 19:03:39,674] {logging_mixin.py:115} INFO - [2024-09-15 19:03:39,673] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-09-15 19:03:39,686] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2024-09-15 19:03:39,701] {logging_mixin.py:115} INFO - [2024-09-15 19:03:39,701] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 19:03:39,715] {logging_mixin.py:115} INFO - [2024-09-15 19:03:39,715] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-09-15 19:03:39,732] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.065 seconds

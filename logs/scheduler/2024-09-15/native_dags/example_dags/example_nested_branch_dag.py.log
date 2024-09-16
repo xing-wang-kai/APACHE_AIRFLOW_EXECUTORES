@@ -1,0 +1,25 @@
+[2024-09-15 19:02:20,584] {processor.py:153} INFO - Started process (PID=10003) to work on /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-15 19:02:20,584] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-09-15 19:02:20,584] {logging_mixin.py:115} INFO - [2024-09-15 19:02:20,584] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-15 19:02:20,592] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-15 19:02:20,646] {logging_mixin.py:115} INFO - [2024-09-15 19:02:20,646] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_nested_branch_dag
+[2024-09-15 19:02:20,654] {logging_mixin.py:115} INFO - [2024-09-15 19:02:20,654] {manager.py:508} INFO - Created Permission View: can read on DAG:example_nested_branch_dag
+[2024-09-15 19:02:20,672] {logging_mixin.py:115} INFO - [2024-09-15 19:02:20,672] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_nested_branch_dag
+[2024-09-15 19:02:20,672] {logging_mixin.py:115} INFO - [2024-09-15 19:02:20,672] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 19:02:20,679] {logging_mixin.py:115} INFO - [2024-09-15 19:02:20,679] {dag.py:2398} INFO - Creating ORM DAG for example_nested_branch_dag
+[2024-09-15 19:02:20,693] {logging_mixin.py:115} INFO - [2024-09-15 19:02:20,693] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-09-14T00:00:00+00:00, run_after=2024-09-15T00:00:00+00:00
+[2024-09-15 19:02:20,711] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.132 seconds
+[2024-09-15 19:02:55,443] {processor.py:153} INFO - Started process (PID=10041) to work on /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-15 19:02:55,445] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-09-15 19:02:55,445] {logging_mixin.py:115} INFO - [2024-09-15 19:02:55,445] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-15 19:02:55,454] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-15 19:02:55,470] {logging_mixin.py:115} INFO - [2024-09-15 19:02:55,470] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 19:02:55,489] {logging_mixin.py:115} INFO - [2024-09-15 19:02:55,489] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-09-14T00:00:00+00:00, run_after=2024-09-15T00:00:00+00:00
+[2024-09-15 19:02:55,504] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.064 seconds
+[2024-09-15 19:03:28,268] {processor.py:153} INFO - Started process (PID=10085) to work on /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-15 19:03:28,269] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-09-15 19:03:28,270] {logging_mixin.py:115} INFO - [2024-09-15 19:03:28,270] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-15 19:03:28,282] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-15 19:03:28,295] {logging_mixin.py:115} INFO - [2024-09-15 19:03:28,295] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 19:03:28,307] {logging_mixin.py:115} INFO - [2024-09-15 19:03:28,307] {dag.py:2927} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-09-14T00:00:00+00:00, run_after=2024-09-15T00:00:00+00:00
+[2024-09-15 19:03:28,319] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.057 seconds

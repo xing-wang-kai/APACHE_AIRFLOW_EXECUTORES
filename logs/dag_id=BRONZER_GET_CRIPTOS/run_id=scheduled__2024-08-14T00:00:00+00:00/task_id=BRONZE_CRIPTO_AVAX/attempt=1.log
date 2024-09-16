@@ -1,0 +1,48 @@
+[2024-09-16 00:08:02,370] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: BRONZER_GET_CRIPTOS.BRONZE_CRIPTO_AVAX scheduled__2024-08-14T00:00:00+00:00 [queued]>
+[2024-09-16 00:08:02,402] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: BRONZER_GET_CRIPTOS.BRONZE_CRIPTO_AVAX scheduled__2024-08-14T00:00:00+00:00 [queued]>
+[2024-09-16 00:08:02,402] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2024-09-16 00:08:02,403] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2024-09-16 00:08:02,403] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2024-09-16 00:08:02,420] {taskinstance.py:1377} INFO - Executing <Task(_PythonDecoratedOperator): BRONZE_CRIPTO_AVAX> on 2024-08-14 00:00:00+00:00
+[2024-09-16 00:08:02,425] {standard_task_runner.py:52} INFO - Started process 41837 to run task
+[2024-09-16 00:08:02,446] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'BRONZER_GET_CRIPTOS', 'BRONZE_CRIPTO_AVAX', 'scheduled__2024-08-14T00:00:00+00:00', '--job-id', '1383', '--raw', '--subdir', 'DAGS_FOLDER/get_cripto.py', '--cfg-path', '/tmp/tmpez1jo40n', '--error-file', '/tmp/tmpwa6cx1am']
+[2024-09-16 00:08:02,447] {standard_task_runner.py:80} INFO - Job 1383: Subtask BRONZE_CRIPTO_AVAX
+[2024-09-16 00:08:02,671] {task_command.py:370} INFO - Running <TaskInstance: BRONZER_GET_CRIPTOS.BRONZE_CRIPTO_AVAX scheduled__2024-08-14T00:00:00+00:00 [running]> on host kaiwang.
+[2024-09-16 00:08:03,021] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=BRONZER_GET_CRIPTOS
+AIRFLOW_CTX_TASK_ID=BRONZE_CRIPTO_AVAX
+AIRFLOW_CTX_EXECUTION_DATE=2024-08-14T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2024-08-14T00:00:00+00:00
+[2024-09-16 00:08:05,444] {history.py:122} ERROR - $AVAX: possibly delisted; no timezone found
+[2024-09-16 00:08:05,460] {python.py:173} INFO - Done. Returned value was: None
+[2024-09-16 00:08:05,487] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=BRONZER_GET_CRIPTOS, task_id=BRONZE_CRIPTO_AVAX, execution_date=20240814T000000, start_date=20240916T030802, end_date=20240916T030805
+[2024-09-16 00:08:05,519] {local_task_job.py:156} INFO - Task exited with return code 0
+[2024-09-16 00:08:05,561] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-09-16 13:56:03,328] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: BRONZER_GET_CRIPTOS.BRONZE_CRIPTO_AVAX scheduled__2024-08-14T00:00:00+00:00 [queued]>
+[2024-09-16 13:56:03,349] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: BRONZER_GET_CRIPTOS.BRONZE_CRIPTO_AVAX scheduled__2024-08-14T00:00:00+00:00 [queued]>
+[2024-09-16 13:56:03,350] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2024-09-16 13:56:03,350] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2024-09-16 13:56:03,350] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2024-09-16 13:56:03,380] {taskinstance.py:1377} INFO - Executing <Task(_PythonDecoratedOperator): BRONZE_CRIPTO_AVAX> on 2024-08-14 00:00:00+00:00
+[2024-09-16 13:56:03,391] {standard_task_runner.py:52} INFO - Started process 137390 to run task
+[2024-09-16 13:56:03,405] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'BRONZER_GET_CRIPTOS', 'BRONZE_CRIPTO_AVAX', 'scheduled__2024-08-14T00:00:00+00:00', '--job-id', '2508', '--raw', '--subdir', 'DAGS_FOLDER/get_cripto.py', '--cfg-path', '/tmp/tmptpa3dptz', '--error-file', '/tmp/tmpe09ulfjq']
+[2024-09-16 13:56:03,406] {standard_task_runner.py:80} INFO - Job 2508: Subtask BRONZE_CRIPTO_AVAX
+[2024-09-16 13:56:03,655] {task_command.py:370} INFO - Running <TaskInstance: BRONZER_GET_CRIPTOS.BRONZE_CRIPTO_AVAX scheduled__2024-08-14T00:00:00+00:00 [running]> on host kaiwang.
+[2024-09-16 13:56:04,152] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=BRONZER_GET_CRIPTOS
+AIRFLOW_CTX_TASK_ID=BRONZE_CRIPTO_AVAX
+AIRFLOW_CTX_EXECUTION_DATE=2024-08-14T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2024-08-14T00:00:00+00:00
+[2024-09-16 13:56:07,317] {history.py:122} ERROR - $AVAX: possibly delisted; no timezone found
+[2024-09-16 13:56:07,319] {python.py:173} INFO - Done. Returned value was: None
+[2024-09-16 13:56:07,338] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=BRONZER_GET_CRIPTOS, task_id=BRONZE_CRIPTO_AVAX, execution_date=20240814T000000, start_date=20240916T165603, end_date=20240916T165607
+[2024-09-16 13:56:07,363] {local_task_job.py:156} INFO - Task exited with return code 0
+[2024-09-16 13:56:07,404] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

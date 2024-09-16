@@ -1,0 +1,32 @@
+[2024-09-15 19:02:19,338] {processor.py:153} INFO - Started process (PID=10000) to work on /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-09-15 19:02:19,339] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-09-15 19:02:19,339] {logging_mixin.py:115} INFO - [2024-09-15 19:02:19,339] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-09-15 19:02:19,349] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-09-15 19:02:19,405] {logging_mixin.py:115} INFO - [2024-09-15 19:02:19,405] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_task_group
+[2024-09-15 19:02:19,413] {logging_mixin.py:115} INFO - [2024-09-15 19:02:19,413] {manager.py:508} INFO - Created Permission View: can read on DAG:example_task_group
+[2024-09-15 19:02:19,420] {logging_mixin.py:115} INFO - [2024-09-15 19:02:19,420] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_task_group
+[2024-09-15 19:02:19,420] {logging_mixin.py:115} INFO - [2024-09-15 19:02:19,420] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 19:02:19,426] {logging_mixin.py:115} INFO - [2024-09-15 19:02:19,426] {dag.py:2398} INFO - Creating ORM DAG for example_task_group
+[2024-09-15 19:02:19,432] {logging_mixin.py:115} INFO - [2024-09-15 19:02:19,432] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2024-09-14T22:02:19.432657+00:00, run_after=2024-09-15T22:02:19.432657+00:00
+[2024-09-15 19:02:19,446] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.115 seconds
+[2024-09-15 19:02:54,307] {processor.py:153} INFO - Started process (PID=10040) to work on /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-09-15 19:02:54,308] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-09-15 19:02:54,309] {logging_mixin.py:115} INFO - [2024-09-15 19:02:54,308] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-09-15 19:02:54,314] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-09-15 19:02:54,326] {logging_mixin.py:115} INFO - [2024-09-15 19:02:54,326] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 19:02:54,338] {logging_mixin.py:115} INFO - [2024-09-15 19:02:54,338] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2024-09-14T22:02:54.338053+00:00, run_after=2024-09-15T22:02:54.338053+00:00
+[2024-09-15 19:02:54,351] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.046 seconds
+[2024-09-15 19:03:27,427] {processor.py:153} INFO - Started process (PID=10084) to work on /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-09-15 19:03:27,427] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-09-15 19:03:27,428] {logging_mixin.py:115} INFO - [2024-09-15 19:03:27,428] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-09-15 19:03:27,434] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-09-15 19:03:27,447] {logging_mixin.py:115} INFO - [2024-09-15 19:03:27,447] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 19:03:27,460] {logging_mixin.py:115} INFO - [2024-09-15 19:03:27,460] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2024-09-14T22:03:27.460387+00:00, run_after=2024-09-15T22:03:27.460387+00:00
+[2024-09-15 19:03:27,473] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.049 seconds
+[2024-09-15 19:03:59,927] {processor.py:153} INFO - Started process (PID=10149) to work on /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-09-15 19:03:59,929] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-09-15 19:03:59,929] {logging_mixin.py:115} INFO - [2024-09-15 19:03:59,929] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-09-15 19:03:59,936] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2024-09-15 19:03:59,949] {logging_mixin.py:115} INFO - [2024-09-15 19:03:59,949] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 19:03:59,962] {logging_mixin.py:115} INFO - [2024-09-15 19:03:59,962] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2024-09-14T22:03:59.962693+00:00, run_after=2024-09-15T22:03:59.962693+00:00
+[2024-09-15 19:03:59,977] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.053 seconds

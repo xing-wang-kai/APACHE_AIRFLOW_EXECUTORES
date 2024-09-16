@@ -1,0 +1,48 @@
+[2024-09-16 00:04:36,692] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: BRONZER_GET_CRIPTOS.BRONZE_CRIPTO_ETH scheduled__2024-03-14T00:00:00+00:00 [queued]>
+[2024-09-16 00:04:36,737] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: BRONZER_GET_CRIPTOS.BRONZE_CRIPTO_ETH scheduled__2024-03-14T00:00:00+00:00 [queued]>
+[2024-09-16 00:04:36,737] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2024-09-16 00:04:36,738] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2024-09-16 00:04:36,738] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2024-09-16 00:04:36,823] {taskinstance.py:1377} INFO - Executing <Task(_PythonDecoratedOperator): BRONZE_CRIPTO_ETH> on 2024-03-14 00:00:00+00:00
+[2024-09-16 00:04:36,866] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'BRONZER_GET_CRIPTOS', 'BRONZE_CRIPTO_ETH', 'scheduled__2024-03-14T00:00:00+00:00', '--job-id', '428', '--raw', '--subdir', 'DAGS_FOLDER/get_cripto.py', '--cfg-path', '/tmp/tmpfjptekpf', '--error-file', '/tmp/tmp8tdlzpr7']
+[2024-09-16 00:04:36,868] {standard_task_runner.py:80} INFO - Job 428: Subtask BRONZE_CRIPTO_ETH
+[2024-09-16 00:04:36,830] {standard_task_runner.py:52} INFO - Started process 25471 to run task
+[2024-09-16 00:04:37,070] {task_command.py:370} INFO - Running <TaskInstance: BRONZER_GET_CRIPTOS.BRONZE_CRIPTO_ETH scheduled__2024-03-14T00:00:00+00:00 [running]> on host kaiwang.
+[2024-09-16 00:04:37,537] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=BRONZER_GET_CRIPTOS
+AIRFLOW_CTX_TASK_ID=BRONZE_CRIPTO_ETH
+AIRFLOW_CTX_EXECUTION_DATE=2024-03-14T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2024-03-14T00:00:00+00:00
+[2024-09-16 00:04:40,429] {history.py:244} ERROR - $ETH: possibly delisted; no price data found  (1h 2024-03-11 -> 2024-03-14) (Yahoo error = "Data doesn't exist for startDate = 1710129600, endDate = 1710388800")
+[2024-09-16 00:04:40,433] {python.py:173} INFO - Done. Returned value was: None
+[2024-09-16 00:04:40,461] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=BRONZER_GET_CRIPTOS, task_id=BRONZE_CRIPTO_ETH, execution_date=20240314T000000, start_date=20240916T030436, end_date=20240916T030440
+[2024-09-16 00:04:40,524] {local_task_job.py:156} INFO - Task exited with return code 0
+[2024-09-16 00:04:40,595] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-09-16 00:15:54,584] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: BRONZER_GET_CRIPTOS.BRONZE_CRIPTO_ETH scheduled__2024-03-14T00:00:00+00:00 [queued]>
+[2024-09-16 00:15:54,632] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: BRONZER_GET_CRIPTOS.BRONZE_CRIPTO_ETH scheduled__2024-03-14T00:00:00+00:00 [queued]>
+[2024-09-16 00:15:54,632] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2024-09-16 00:15:54,632] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2024-09-16 00:15:54,633] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2024-09-16 00:15:54,686] {taskinstance.py:1377} INFO - Executing <Task(_PythonDecoratedOperator): BRONZE_CRIPTO_ETH> on 2024-03-14 00:00:00+00:00
+[2024-09-16 00:15:54,691] {standard_task_runner.py:52} INFO - Started process 56964 to run task
+[2024-09-16 00:15:54,724] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'BRONZER_GET_CRIPTOS', 'BRONZE_CRIPTO_ETH', 'scheduled__2024-03-14T00:00:00+00:00', '--job-id', '2239', '--raw', '--subdir', 'DAGS_FOLDER/get_cripto.py', '--cfg-path', '/tmp/tmps_cwaqz5', '--error-file', '/tmp/tmprxungfcp']
+[2024-09-16 00:15:54,725] {standard_task_runner.py:80} INFO - Job 2239: Subtask BRONZE_CRIPTO_ETH
+[2024-09-16 00:15:55,046] {task_command.py:370} INFO - Running <TaskInstance: BRONZER_GET_CRIPTOS.BRONZE_CRIPTO_ETH scheduled__2024-03-14T00:00:00+00:00 [running]> on host kaiwang.
+[2024-09-16 00:15:55,505] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=BRONZER_GET_CRIPTOS
+AIRFLOW_CTX_TASK_ID=BRONZE_CRIPTO_ETH
+AIRFLOW_CTX_EXECUTION_DATE=2024-03-14T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2024-03-14T00:00:00+00:00
+[2024-09-16 00:15:58,553] {history.py:244} ERROR - $ETH: possibly delisted; no price data found  (1h 2024-03-11 -> 2024-03-14) (Yahoo error = "Data doesn't exist for startDate = 1710129600, endDate = 1710388800")
+[2024-09-16 00:15:58,557] {python.py:173} INFO - Done. Returned value was: None
+[2024-09-16 00:15:58,664] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=BRONZER_GET_CRIPTOS, task_id=BRONZE_CRIPTO_ETH, execution_date=20240314T000000, start_date=20240916T031554, end_date=20240916T031558
+[2024-09-16 00:15:58,700] {local_task_job.py:156} INFO - Task exited with return code 0
+[2024-09-16 00:15:58,858] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

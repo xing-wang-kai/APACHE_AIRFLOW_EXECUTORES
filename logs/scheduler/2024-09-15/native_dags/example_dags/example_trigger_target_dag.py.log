@@ -1,0 +1,32 @@
+[2024-09-15 19:02:01,204] {processor.py:153} INFO - Started process (PID=9982) to work on /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-09-15 19:02:01,204] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-09-15 19:02:01,204] {logging_mixin.py:115} INFO - [2024-09-15 19:02:01,204] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-09-15 19:02:01,217] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-09-15 19:02:01,267] {logging_mixin.py:115} INFO - [2024-09-15 19:02:01,267] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_trigger_target_dag
+[2024-09-15 19:02:01,276] {logging_mixin.py:115} INFO - [2024-09-15 19:02:01,276] {manager.py:508} INFO - Created Permission View: can read on DAG:example_trigger_target_dag
+[2024-09-15 19:02:01,283] {logging_mixin.py:115} INFO - [2024-09-15 19:02:01,283] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_trigger_target_dag
+[2024-09-15 19:02:01,283] {logging_mixin.py:115} INFO - [2024-09-15 19:02:01,283] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 19:02:01,288] {logging_mixin.py:115} INFO - [2024-09-15 19:02:01,288] {dag.py:2398} INFO - Creating ORM DAG for example_trigger_target_dag
+[2024-09-15 19:02:01,294] {logging_mixin.py:115} INFO - [2024-09-15 19:02:01,294] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-09-15 19:02:01,307] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.106 seconds
+[2024-09-15 19:02:36,065] {processor.py:153} INFO - Started process (PID=10022) to work on /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-09-15 19:02:36,066] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-09-15 19:02:36,066] {logging_mixin.py:115} INFO - [2024-09-15 19:02:36,066] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-09-15 19:02:36,078] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-09-15 19:02:36,090] {logging_mixin.py:115} INFO - [2024-09-15 19:02:36,090] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 19:02:36,105] {logging_mixin.py:115} INFO - [2024-09-15 19:02:36,105] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-09-15 19:02:36,117] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.054 seconds
+[2024-09-15 19:03:09,318] {processor.py:153} INFO - Started process (PID=10059) to work on /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-09-15 19:03:09,320] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-09-15 19:03:09,320] {logging_mixin.py:115} INFO - [2024-09-15 19:03:09,320] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-09-15 19:03:09,334] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-09-15 19:03:09,346] {logging_mixin.py:115} INFO - [2024-09-15 19:03:09,346] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 19:03:09,361] {logging_mixin.py:115} INFO - [2024-09-15 19:03:09,361] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-09-15 19:03:09,372] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.056 seconds
+[2024-09-15 19:03:42,843] {processor.py:153} INFO - Started process (PID=10124) to work on /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-09-15 19:03:42,845] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-09-15 19:03:42,845] {logging_mixin.py:115} INFO - [2024-09-15 19:03:42,845] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-09-15 19:03:42,859] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-09-15 19:03:42,871] {logging_mixin.py:115} INFO - [2024-09-15 19:03:42,871] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 19:03:42,884] {logging_mixin.py:115} INFO - [2024-09-15 19:03:42,884] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-09-15 19:03:42,896] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.055 seconds

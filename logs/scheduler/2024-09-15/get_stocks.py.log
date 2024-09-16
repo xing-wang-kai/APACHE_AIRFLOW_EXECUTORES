@@ -1,0 +1,621 @@
+[2024-09-15 19:39:09,396] {processor.py:153} INFO - Started process (PID=10530) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:39:09,397] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:39:09,397] {logging_mixin.py:115} INFO - [2024-09-15 19:39:09,397] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:39:10,226] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:39:10,232] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.840 seconds
+[2024-09-15 19:39:40,536] {processor.py:153} INFO - Started process (PID=10541) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:39:40,537] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:39:40,538] {logging_mixin.py:115} INFO - [2024-09-15 19:39:40,537] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:39:40,912] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:39:40,920] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.388 seconds
+[2024-09-15 19:40:11,179] {processor.py:153} INFO - Started process (PID=10551) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:40:11,180] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:40:11,180] {logging_mixin.py:115} INFO - [2024-09-15 19:40:11,180] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:40:11,551] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:40:11,557] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.379 seconds
+[2024-09-15 19:40:41,789] {processor.py:153} INFO - Started process (PID=10561) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:40:41,789] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:40:41,790] {logging_mixin.py:115} INFO - [2024-09-15 19:40:41,789] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:40:42,199] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:40:42,204] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.419 seconds
+[2024-09-15 19:41:12,548] {processor.py:153} INFO - Started process (PID=10570) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:41:12,549] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:41:12,550] {logging_mixin.py:115} INFO - [2024-09-15 19:41:12,550] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:41:12,920] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:41:12,926] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.380 seconds
+[2024-09-15 19:41:43,134] {processor.py:153} INFO - Started process (PID=10582) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:41:43,135] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:41:43,136] {logging_mixin.py:115} INFO - [2024-09-15 19:41:43,136] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:41:43,545] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:41:43,552] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.422 seconds
+[2024-09-15 19:42:13,697] {processor.py:153} INFO - Started process (PID=10591) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:42:13,699] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:42:13,699] {logging_mixin.py:115} INFO - [2024-09-15 19:42:13,699] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:42:14,135] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:42:14,143] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.448 seconds
+[2024-09-15 19:42:44,256] {processor.py:153} INFO - Started process (PID=10600) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:42:44,256] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:42:44,257] {logging_mixin.py:115} INFO - [2024-09-15 19:42:44,256] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:42:44,706] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:42:44,711] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.458 seconds
+[2024-09-15 19:43:14,840] {processor.py:153} INFO - Started process (PID=10610) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:43:14,841] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:43:14,842] {logging_mixin.py:115} INFO - [2024-09-15 19:43:14,842] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:43:15,217] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:43:15,223] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.386 seconds
+[2024-09-15 19:43:45,320] {processor.py:153} INFO - Started process (PID=10622) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:43:45,320] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:43:45,321] {logging_mixin.py:115} INFO - [2024-09-15 19:43:45,320] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:43:45,772] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:43:45,780] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.463 seconds
+[2024-09-15 19:44:15,905] {processor.py:153} INFO - Started process (PID=10630) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:44:15,908] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:44:15,908] {logging_mixin.py:115} INFO - [2024-09-15 19:44:15,908] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:44:16,302] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:44:16,308] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.409 seconds
+[2024-09-15 19:44:46,491] {processor.py:153} INFO - Started process (PID=10638) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:44:46,491] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:44:46,492] {logging_mixin.py:115} INFO - [2024-09-15 19:44:46,492] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:44:46,971] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:44:46,977] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.494 seconds
+[2024-09-15 19:45:17,146] {processor.py:153} INFO - Started process (PID=10652) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:45:17,148] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:45:17,148] {logging_mixin.py:115} INFO - [2024-09-15 19:45:17,148] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:45:17,562] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:45:17,568] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.423 seconds
+[2024-09-15 19:45:47,706] {processor.py:153} INFO - Started process (PID=10661) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:45:47,706] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:45:47,707] {logging_mixin.py:115} INFO - [2024-09-15 19:45:47,707] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:45:48,077] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:45:48,083] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.379 seconds
+[2024-09-15 19:46:18,173] {processor.py:153} INFO - Started process (PID=10674) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:46:18,174] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:46:18,175] {logging_mixin.py:115} INFO - [2024-09-15 19:46:18,174] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:46:18,565] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:46:18,577] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.406 seconds
+[2024-09-15 19:46:48,753] {processor.py:153} INFO - Started process (PID=10682) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:46:48,753] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:46:48,754] {logging_mixin.py:115} INFO - [2024-09-15 19:46:48,754] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:46:49,122] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:46:49,133] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.382 seconds
+[2024-09-15 19:47:19,210] {processor.py:153} INFO - Started process (PID=10690) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:47:19,210] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:47:19,211] {logging_mixin.py:115} INFO - [2024-09-15 19:47:19,211] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:47:19,614] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:47:19,620] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.413 seconds
+[2024-09-15 19:47:49,770] {processor.py:153} INFO - Started process (PID=10698) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:47:49,770] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:47:49,770] {logging_mixin.py:115} INFO - [2024-09-15 19:47:49,770] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:47:50,170] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:47:50,175] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.408 seconds
+[2024-09-15 19:48:20,341] {processor.py:153} INFO - Started process (PID=10708) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:48:20,342] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:48:20,343] {logging_mixin.py:115} INFO - [2024-09-15 19:48:20,343] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:48:20,697] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:48:20,702] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.364 seconds
+[2024-09-15 19:48:50,804] {processor.py:153} INFO - Started process (PID=10716) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:48:50,804] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:48:50,804] {logging_mixin.py:115} INFO - [2024-09-15 19:48:50,804] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:48:51,250] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:48:51,258] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.457 seconds
+[2024-09-15 19:49:21,365] {processor.py:153} INFO - Started process (PID=10725) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:49:21,365] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:49:21,366] {logging_mixin.py:115} INFO - [2024-09-15 19:49:21,366] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:49:21,745] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:49:21,751] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.389 seconds
+[2024-09-15 19:49:51,822] {processor.py:153} INFO - Started process (PID=10734) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:49:51,824] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:49:51,824] {logging_mixin.py:115} INFO - [2024-09-15 19:49:51,824] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:49:52,190] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:49:52,195] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.376 seconds
+[2024-09-15 19:50:22,283] {processor.py:153} INFO - Started process (PID=10743) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:50:22,285] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:50:22,286] {logging_mixin.py:115} INFO - [2024-09-15 19:50:22,286] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:50:22,733] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:50:22,740] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.460 seconds
+[2024-09-15 19:50:52,865] {processor.py:153} INFO - Started process (PID=10756) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:50:52,866] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:50:52,867] {logging_mixin.py:115} INFO - [2024-09-15 19:50:52,866] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:50:53,266] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:50:53,272] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.416 seconds
+[2024-09-15 19:51:23,441] {processor.py:153} INFO - Started process (PID=10764) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:51:23,443] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:51:23,444] {logging_mixin.py:115} INFO - [2024-09-15 19:51:23,444] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:51:23,814] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:51:23,820] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.385 seconds
+[2024-09-15 19:51:53,932] {processor.py:153} INFO - Started process (PID=10772) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:51:53,933] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:51:53,933] {logging_mixin.py:115} INFO - [2024-09-15 19:51:53,933] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:51:54,304] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:51:54,309] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.385 seconds
+[2024-09-15 19:52:24,395] {processor.py:153} INFO - Started process (PID=10780) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:52:24,397] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:52:24,397] {logging_mixin.py:115} INFO - [2024-09-15 19:52:24,397] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:52:24,763] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:52:24,768] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.376 seconds
+[2024-09-15 19:52:54,852] {processor.py:153} INFO - Started process (PID=10788) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:52:54,852] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:52:54,852] {logging_mixin.py:115} INFO - [2024-09-15 19:52:54,852] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:52:55,353] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:52:55,360] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.511 seconds
+[2024-09-15 19:53:25,549] {processor.py:153} INFO - Started process (PID=10796) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:53:25,550] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:53:25,551] {logging_mixin.py:115} INFO - [2024-09-15 19:53:25,550] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:53:25,989] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:53:25,996] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.451 seconds
+[2024-09-15 19:53:56,113] {processor.py:153} INFO - Started process (PID=10806) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:53:56,113] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:53:56,114] {logging_mixin.py:115} INFO - [2024-09-15 19:53:56,113] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:53:56,490] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:53:56,495] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.385 seconds
+[2024-09-15 19:54:26,586] {processor.py:153} INFO - Started process (PID=10814) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:54:26,588] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:54:26,588] {logging_mixin.py:115} INFO - [2024-09-15 19:54:26,588] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:54:27,011] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:54:27,016] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.434 seconds
+[2024-09-15 19:54:57,172] {processor.py:153} INFO - Started process (PID=10822) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:54:57,173] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:54:57,173] {logging_mixin.py:115} INFO - [2024-09-15 19:54:57,173] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:54:57,664] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:54:57,669] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.500 seconds
+[2024-09-15 19:55:27,834] {processor.py:153} INFO - Started process (PID=10831) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:55:27,835] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:55:27,836] {logging_mixin.py:115} INFO - [2024-09-15 19:55:27,836] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:55:28,255] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:55:28,260] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.431 seconds
+[2024-09-15 19:55:58,390] {processor.py:153} INFO - Started process (PID=10841) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:55:58,390] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:55:58,390] {logging_mixin.py:115} INFO - [2024-09-15 19:55:58,390] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:55:58,780] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:55:58,786] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.398 seconds
+[2024-09-15 19:56:28,857] {processor.py:153} INFO - Started process (PID=10850) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:56:28,858] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:56:28,859] {logging_mixin.py:115} INFO - [2024-09-15 19:56:28,859] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:56:29,235] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:56:29,241] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.387 seconds
+[2024-09-15 19:56:59,319] {processor.py:153} INFO - Started process (PID=10860) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:56:59,320] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:56:59,320] {logging_mixin.py:115} INFO - [2024-09-15 19:56:59,320] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:56:59,725] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:56:59,731] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.414 seconds
+[2024-09-15 19:57:29,905] {processor.py:153} INFO - Started process (PID=10869) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:57:29,907] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:57:29,908] {logging_mixin.py:115} INFO - [2024-09-15 19:57:29,908] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:57:30,313] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:57:30,319] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.420 seconds
+[2024-09-15 19:58:00,486] {processor.py:153} INFO - Started process (PID=10878) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:58:00,488] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:58:00,489] {logging_mixin.py:115} INFO - [2024-09-15 19:58:00,489] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:58:00,884] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:58:00,889] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.411 seconds
+[2024-09-15 19:58:31,036] {processor.py:153} INFO - Started process (PID=10888) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:58:31,037] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:58:31,038] {logging_mixin.py:115} INFO - [2024-09-15 19:58:31,038] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:58:31,439] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:58:31,444] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.411 seconds
+[2024-09-15 19:59:01,650] {processor.py:153} INFO - Started process (PID=10903) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:59:01,651] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:59:01,652] {logging_mixin.py:115} INFO - [2024-09-15 19:59:01,652] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:59:02,046] {logging_mixin.py:115} INFO - [2024-09-15 19:59:02,044] {dagbag.py:320} ERROR - Failed to import: /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+Traceback (most recent call last):
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py", line 32, in <module>
+    @Dag(
+NameError: name 'Dag' is not defined
+[2024-09-15 19:59:02,046] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:59:02,060] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.416 seconds
+[2024-09-15 19:59:23,099] {processor.py:153} INFO - Started process (PID=10955) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:59:23,099] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:59:23,100] {logging_mixin.py:115} INFO - [2024-09-15 19:59:23,100] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:59:23,479] {logging_mixin.py:115} INFO - [2024-09-15 19:59:23,479] {dagbag.py:320} ERROR - Failed to import: /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+Traceback (most recent call last):
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py", line 32, in <module>
+    @Dag(
+NameError: name 'Dag' is not defined
+[2024-09-15 19:59:23,480] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:59:23,493] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.398 seconds
+[2024-09-15 19:59:54,312] {processor.py:153} INFO - Started process (PID=10993) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:59:54,314] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 19:59:54,314] {logging_mixin.py:115} INFO - [2024-09-15 19:59:54,314] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:59:54,630] {logging_mixin.py:115} INFO - [2024-09-15 19:59:54,628] {dagbag.py:320} ERROR - Failed to import: /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+Traceback (most recent call last):
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py", line 32, in <module>
+    @Dag(
+NameError: name 'Dag' is not defined
+[2024-09-15 19:59:54,630] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 19:59:54,642] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.334 seconds
+[2024-09-15 20:00:25,586] {processor.py:153} INFO - Started process (PID=11002) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:00:25,588] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:00:25,589] {logging_mixin.py:115} INFO - [2024-09-15 20:00:25,589] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:00:25,968] {logging_mixin.py:115} INFO - [2024-09-15 20:00:25,963] {dagbag.py:320} ERROR - Failed to import: /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+Traceback (most recent call last):
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py", line 44, in <module>
+    dag = get_stoncks()
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/models/dag.py", line 2979, in factory
+    f(**f_kwargs)
+  File "/home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py", line 40, in get_stoncks
+    get_history.override(
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/decorators/base.py", line 259, in __call__
+    op = self.operator_class(
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/decorators/python.py", line 50, in __init__
+    super().__init__(
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/decorators/base.py", line 176, in __init__
+    super().__init__(task_id=task_id, **kwargs_to_upstream, **kwargs)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 754, in __init__
+    validate_key(task_id)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/utils/helpers.py", line 63, in validate_key
+    raise AirflowException(
+airflow.exceptions.AirflowException: The key 'BRONZE - AAPL' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2024-09-15 20:00:25,969] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:00:25,986] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.405 seconds
+[2024-09-15 20:00:59,347] {processor.py:153} INFO - Started process (PID=11049) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:00:59,348] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:00:59,348] {logging_mixin.py:115} INFO - [2024-09-15 20:00:59,348] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:00:59,678] {logging_mixin.py:115} INFO - [2024-09-15 20:00:59,677] {dagbag.py:320} ERROR - Failed to import: /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+Traceback (most recent call last):
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py", line 44, in <module>
+    dag = get_stoncks()
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/models/dag.py", line 2979, in factory
+    f(**f_kwargs)
+  File "/home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py", line 40, in get_stoncks
+    get_history.override(
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/decorators/base.py", line 259, in __call__
+    op = self.operator_class(
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/decorators/python.py", line 50, in __init__
+    super().__init__(
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/decorators/base.py", line 176, in __init__
+    super().__init__(task_id=task_id, **kwargs_to_upstream, **kwargs)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 754, in __init__
+    validate_key(task_id)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/utils/helpers.py", line 63, in validate_key
+    raise AirflowException(
+airflow.exceptions.AirflowException: The key 'BRONZE - AAPL' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2024-09-15 20:00:59,679] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:00:59,695] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.350 seconds
+[2024-09-15 20:01:30,522] {processor.py:153} INFO - Started process (PID=11088) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:01:30,524] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:01:30,524] {logging_mixin.py:115} INFO - [2024-09-15 20:01:30,524] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:01:30,862] {logging_mixin.py:115} INFO - [2024-09-15 20:01:30,861] {dagbag.py:320} ERROR - Failed to import: /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+Traceback (most recent call last):
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py", line 44, in <module>
+    dag = get_stoncks()
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/models/dag.py", line 2979, in factory
+    f(**f_kwargs)
+  File "/home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py", line 40, in get_stoncks
+    get_history.override(
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/decorators/base.py", line 259, in __call__
+    op = self.operator_class(
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/decorators/python.py", line 50, in __init__
+    super().__init__(
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/decorators/base.py", line 176, in __init__
+    super().__init__(task_id=task_id, **kwargs_to_upstream, **kwargs)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/operators/python.py", line 156, in __init__
+    super().__init__(**kwargs)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 754, in __init__
+    validate_key(task_id)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/utils/helpers.py", line 63, in validate_key
+    raise AirflowException(
+airflow.exceptions.AirflowException: The key 'BRONZE - AAPL' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2024-09-15 20:01:30,862] {processor.py:653} WARNING - No viable dags retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:01:30,874] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.361 seconds
+[2024-09-15 20:02:01,721] {processor.py:153} INFO - Started process (PID=11097) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:02:01,722] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:02:01,722] {logging_mixin.py:115} INFO - [2024-09-15 20:02:01,722] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:02:02,046] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:02:02,085] {logging_mixin.py:115} INFO - [2024-09-15 20:02:02,085] {manager.py:508} INFO - Created Permission View: can edit on DAG:BRONZER_GET_STONCKS
+[2024-09-15 20:02:02,093] {logging_mixin.py:115} INFO - [2024-09-15 20:02:02,093] {manager.py:508} INFO - Created Permission View: can delete on DAG:BRONZER_GET_STONCKS
+[2024-09-15 20:02:02,100] {logging_mixin.py:115} INFO - [2024-09-15 20:02:02,100] {manager.py:508} INFO - Created Permission View: can read on DAG:BRONZER_GET_STONCKS
+[2024-09-15 20:02:02,101] {logging_mixin.py:115} INFO - [2024-09-15 20:02:02,100] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:02:02,111] {logging_mixin.py:115} INFO - [2024-09-15 20:02:02,110] {dag.py:2398} INFO - Creating ORM DAG for BRONZER_GET_STONCKS
+[2024-09-15 20:02:02,118] {logging_mixin.py:115} INFO - [2024-09-15 20:02:02,118] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-09-15 20:02:02,132] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.413 seconds
+[2024-09-15 20:02:33,908] {processor.py:153} INFO - Started process (PID=11212) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:02:33,909] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:02:33,910] {logging_mixin.py:115} INFO - [2024-09-15 20:02:33,910] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:02:34,209] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:02:34,216] {logging_mixin.py:115} INFO - [2024-09-15 20:02:34,215] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:02:34,225] {logging_mixin.py:115} INFO - [2024-09-15 20:02:34,225] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-05T00:00:00+00:00, run_after=2024-01-06T00:00:00+00:00
+[2024-09-15 20:02:34,236] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.331 seconds
+[2024-09-15 20:03:13,781] {processor.py:153} INFO - Started process (PID=11288) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:03:13,782] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:03:13,782] {logging_mixin.py:115} INFO - [2024-09-15 20:03:13,782] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:03:14,099] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:03:14,107] {logging_mixin.py:115} INFO - [2024-09-15 20:03:14,107] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:03:14,118] {logging_mixin.py:115} INFO - [2024-09-15 20:03:14,118] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-09T00:00:00+00:00, run_after=2024-01-10T00:00:00+00:00
+[2024-09-15 20:03:14,128] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.350 seconds
+[2024-09-15 20:03:46,390] {processor.py:153} INFO - Started process (PID=11368) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:03:46,391] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:03:46,391] {logging_mixin.py:115} INFO - [2024-09-15 20:03:46,391] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:03:46,694] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:03:46,701] {logging_mixin.py:115} INFO - [2024-09-15 20:03:46,701] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:03:46,712] {logging_mixin.py:115} INFO - [2024-09-15 20:03:46,711] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-11T00:00:00+00:00, run_after=2024-01-12T00:00:00+00:00
+[2024-09-15 20:03:46,722] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.336 seconds
+[2024-09-15 20:04:19,182] {processor.py:153} INFO - Started process (PID=11586) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:04:19,183] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:04:19,183] {logging_mixin.py:115} INFO - [2024-09-15 20:04:19,183] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:04:19,473] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:04:19,480] {logging_mixin.py:115} INFO - [2024-09-15 20:04:19,480] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:04:19,490] {logging_mixin.py:115} INFO - [2024-09-15 20:04:19,490] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-19T00:00:00+00:00, run_after=2024-01-20T00:00:00+00:00
+[2024-09-15 20:04:19,501] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.322 seconds
+[2024-09-15 20:04:50,254] {processor.py:153} INFO - Started process (PID=11742) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:04:50,254] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:04:50,255] {logging_mixin.py:115} INFO - [2024-09-15 20:04:50,255] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:04:50,566] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:04:50,591] {logging_mixin.py:115} INFO - [2024-09-15 20:04:50,590] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:04:50,594] {logging_mixin.py:115} INFO - [2024-09-15 20:04:50,594] {dag.py:2398} INFO - Creating ORM DAG for BRONZER_GET_STONCKS
+[2024-09-15 20:04:50,601] {logging_mixin.py:115} INFO - [2024-09-15 20:04:50,601] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-09-15 20:04:50,613] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.363 seconds
+[2024-09-15 20:05:21,542] {processor.py:153} INFO - Started process (PID=11743) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:05:21,543] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:05:21,543] {logging_mixin.py:115} INFO - [2024-09-15 20:05:21,543] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:05:21,868] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:05:21,875] {logging_mixin.py:115} INFO - [2024-09-15 20:05:21,875] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:05:21,886] {logging_mixin.py:115} INFO - [2024-09-15 20:05:21,886] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-09-15 20:05:21,897] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.358 seconds
+[2024-09-15 20:05:35,155] {processor.py:153} INFO - Started process (PID=11785) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:05:35,156] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:05:35,156] {logging_mixin.py:115} INFO - [2024-09-15 20:05:35,156] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:05:35,469] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:05:35,477] {logging_mixin.py:115} INFO - [2024-09-15 20:05:35,477] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:05:35,487] {logging_mixin.py:115} INFO - [2024-09-15 20:05:35,487] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-09-15 20:05:35,498] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.345 seconds
+[2024-09-15 20:06:08,457] {processor.py:153} INFO - Started process (PID=11931) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:06:08,458] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:06:08,458] {logging_mixin.py:115} INFO - [2024-09-15 20:06:08,458] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:06:08,798] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:06:08,809] {logging_mixin.py:115} INFO - [2024-09-15 20:06:08,808] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:06:08,827] {logging_mixin.py:115} INFO - [2024-09-15 20:06:08,827] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-05T00:00:00+00:00, run_after=2024-01-06T00:00:00+00:00
+[2024-09-15 20:06:08,841] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.387 seconds
+[2024-09-15 20:06:42,858] {processor.py:153} INFO - Started process (PID=12151) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:06:42,859] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:06:42,860] {logging_mixin.py:115} INFO - [2024-09-15 20:06:42,860] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:06:43,233] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:06:43,240] {logging_mixin.py:115} INFO - [2024-09-15 20:06:43,240] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:06:43,251] {logging_mixin.py:115} INFO - [2024-09-15 20:06:43,251] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-13T00:00:00+00:00, run_after=2024-01-16T00:00:00+00:00
+[2024-09-15 20:06:43,261] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.406 seconds
+[2024-09-15 20:07:18,039] {processor.py:153} INFO - Started process (PID=12297) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:07:18,039] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:07:18,040] {logging_mixin.py:115} INFO - [2024-09-15 20:07:18,040] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:07:18,355] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:07:18,363] {logging_mixin.py:115} INFO - [2024-09-15 20:07:18,363] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:07:18,373] {logging_mixin.py:115} INFO - [2024-09-15 20:07:18,373] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-17T00:00:00+00:00, run_after=2024-01-18T00:00:00+00:00
+[2024-09-15 20:07:18,387] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.351 seconds
+[2024-09-15 20:07:57,730] {processor.py:153} INFO - Started process (PID=12409) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:07:57,731] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:07:57,731] {logging_mixin.py:115} INFO - [2024-09-15 20:07:57,731] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:07:58,020] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:07:58,027] {logging_mixin.py:115} INFO - [2024-09-15 20:07:58,026] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:07:58,036] {logging_mixin.py:115} INFO - [2024-09-15 20:07:58,036] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-19T00:00:00+00:00, run_after=2024-01-20T00:00:00+00:00
+[2024-09-15 20:07:58,046] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.319 seconds
+[2024-09-15 20:08:28,929] {processor.py:153} INFO - Started process (PID=12412) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:08:28,929] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:08:28,931] {logging_mixin.py:115} INFO - [2024-09-15 20:08:28,931] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:08:29,295] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:08:29,327] {logging_mixin.py:115} INFO - [2024-09-15 20:08:29,327] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:08:29,332] {logging_mixin.py:115} INFO - [2024-09-15 20:08:29,331] {dag.py:2398} INFO - Creating ORM DAG for BRONZER_GET_STONCKS
+[2024-09-15 20:08:29,339] {logging_mixin.py:115} INFO - [2024-09-15 20:08:29,339] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-09-15 20:08:29,356] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.430 seconds
+[2024-09-15 20:09:06,479] {processor.py:153} INFO - Started process (PID=12561) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:09:06,480] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:09:06,481] {logging_mixin.py:115} INFO - [2024-09-15 20:09:06,481] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:09:06,810] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:09:06,819] {logging_mixin.py:115} INFO - [2024-09-15 20:09:06,818] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:09:06,830] {logging_mixin.py:115} INFO - [2024-09-15 20:09:06,830] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-09-15 20:09:06,842] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.366 seconds
+[2024-09-15 20:09:53,668] {processor.py:153} INFO - Started process (PID=12674) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:09:53,669] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:09:53,670] {logging_mixin.py:115} INFO - [2024-09-15 20:09:53,670] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:09:53,980] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:09:53,987] {logging_mixin.py:115} INFO - [2024-09-15 20:09:53,987] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:09:53,997] {logging_mixin.py:115} INFO - [2024-09-15 20:09:53,997] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-11T00:00:00+00:00, run_after=2024-01-12T00:00:00+00:00
+[2024-09-15 20:09:54,008] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.342 seconds
+[2024-09-15 20:10:38,819] {processor.py:153} INFO - Started process (PID=12761) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:10:38,820] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:10:38,820] {logging_mixin.py:115} INFO - [2024-09-15 20:10:38,820] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:10:39,108] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:10:39,115] {logging_mixin.py:115} INFO - [2024-09-15 20:10:39,115] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:10:39,125] {logging_mixin.py:115} INFO - [2024-09-15 20:10:39,125] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-13T00:00:00+00:00, run_after=2024-01-16T00:00:00+00:00
+[2024-09-15 20:10:39,136] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.319 seconds
+[2024-09-15 20:11:13,357] {processor.py:153} INFO - Started process (PID=12877) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:11:13,358] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:11:13,359] {logging_mixin.py:115} INFO - [2024-09-15 20:11:13,358] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:11:13,671] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:11:13,680] {logging_mixin.py:115} INFO - [2024-09-15 20:11:13,680] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:11:13,694] {logging_mixin.py:115} INFO - [2024-09-15 20:11:13,694] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-18T00:00:00+00:00, run_after=2024-01-19T00:00:00+00:00
+[2024-09-15 20:11:13,707] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.353 seconds
+[2024-09-15 20:11:47,346] {processor.py:153} INFO - Started process (PID=12996) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:11:47,346] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:11:47,347] {logging_mixin.py:115} INFO - [2024-09-15 20:11:47,347] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:11:47,643] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:11:47,651] {logging_mixin.py:115} INFO - [2024-09-15 20:11:47,650] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:11:47,661] {logging_mixin.py:115} INFO - [2024-09-15 20:11:47,661] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-23T00:00:00+00:00, run_after=2024-01-24T00:00:00+00:00
+[2024-09-15 20:11:47,672] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.329 seconds
+[2024-09-15 20:12:18,042] {processor.py:153} INFO - Started process (PID=13036) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:12:18,043] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:12:18,044] {logging_mixin.py:115} INFO - [2024-09-15 20:12:18,044] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:12:18,367] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:12:18,402] {logging_mixin.py:115} INFO - [2024-09-15 20:12:18,402] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:12:18,412] {logging_mixin.py:115} INFO - [2024-09-15 20:12:18,412] {dag.py:2398} INFO - Creating ORM DAG for BRONZER_GET_STONCKS
+[2024-09-15 20:12:18,420] {logging_mixin.py:115} INFO - [2024-09-15 20:12:18,420] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-09-15 20:12:18,436] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.398 seconds
+[2024-09-15 20:12:49,065] {processor.py:153} INFO - Started process (PID=13188) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:12:49,066] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:12:49,066] {logging_mixin.py:115} INFO - [2024-09-15 20:12:49,066] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:12:49,398] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:12:49,405] {logging_mixin.py:115} INFO - [2024-09-15 20:12:49,405] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:12:49,418] {logging_mixin.py:115} INFO - [2024-09-15 20:12:49,418] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-09-15 20:12:49,429] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.368 seconds
+[2024-09-15 20:13:19,606] {processor.py:153} INFO - Started process (PID=13372) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:13:19,608] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:13:19,609] {logging_mixin.py:115} INFO - [2024-09-15 20:13:19,609] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:13:19,932] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:13:19,940] {logging_mixin.py:115} INFO - [2024-09-15 20:13:19,939] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:13:19,950] {logging_mixin.py:115} INFO - [2024-09-15 20:13:19,950] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-13T00:00:00+00:00, run_after=2024-01-16T00:00:00+00:00
+[2024-09-15 20:13:19,963] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.364 seconds
+[2024-09-15 20:13:54,336] {processor.py:153} INFO - Started process (PID=13524) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:13:54,337] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:13:54,337] {logging_mixin.py:115} INFO - [2024-09-15 20:13:54,337] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:13:54,664] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:13:54,673] {logging_mixin.py:115} INFO - [2024-09-15 20:13:54,673] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:13:54,695] {logging_mixin.py:115} INFO - [2024-09-15 20:13:54,695] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-19T00:00:00+00:00, run_after=2024-01-20T00:00:00+00:00
+[2024-09-15 20:13:54,752] {processor.py:164} ERROR - Got an exception! Propagating...
+Traceback (most recent call last):
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/dag_processing/processor.py", line 155, in _run_file_processor
+    result: Tuple[int, int] = dag_file_processor.process_file(
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/utils/session.py", line 71, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/dag_processing/processor.py", line 660, in process_file
+    dagbag.sync_to_db()
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/utils/session.py", line 71, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/models/dagbag.py", line 615, in sync_to_db
+    for attempt in run_with_db_retries(logger=self.log):
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/tenacity/__init__.py", line 382, in __iter__
+    do = self.iter(retry_state=retry_state)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/tenacity/__init__.py", line 349, in iter
+    return fut.result()
+  File "/usr/lib/python3.10/concurrent/futures/_base.py", line 451, in result
+    return self.__get_result()
+  File "/usr/lib/python3.10/concurrent/futures/_base.py", line 403, in __get_result
+    raise self._exception
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/models/dagbag.py", line 629, in sync_to_db
+    DAG.bulk_write_to_db(self.dags.values(), session=session)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/utils/session.py", line 68, in wrapper
+    return func(*args, **kwargs)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/models/dag.py", line 2474, in bulk_write_to_db
+    session.flush()
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3255, in flush
+    self._flush(objects)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3394, in _flush
+    with util.safe_reraise():
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    compat.raise_(
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 3355, in _flush
+    flush_context.execute()
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/sqlalchemy/orm/unitofwork.py", line 453, in execute
+    rec.execute(self)
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/sqlalchemy/orm/unitofwork.py", line 627, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/sqlalchemy/orm/persistence.py", line 234, in save_obj
+    _emit_update_statements(
+  File "/home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/sqlalchemy/orm/persistence.py", line 1032, in _emit_update_statements
+    raise orm_exc.StaleDataError(
+sqlalchemy.orm.exc.StaleDataError: UPDATE statement on table 'dag' expected to update 1 row(s); 0 were matched.
+[2024-09-15 20:14:25,561] {processor.py:153} INFO - Started process (PID=13527) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:14:25,562] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:14:25,563] {logging_mixin.py:115} INFO - [2024-09-15 20:14:25,563] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:14:25,939] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:14:25,970] {logging_mixin.py:115} INFO - [2024-09-15 20:14:25,969] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:14:25,976] {logging_mixin.py:115} INFO - [2024-09-15 20:14:25,976] {dag.py:2398} INFO - Creating ORM DAG for BRONZER_GET_STONCKS
+[2024-09-15 20:14:25,985] {logging_mixin.py:115} INFO - [2024-09-15 20:14:25,985] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-09-15 20:14:26,001] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.442 seconds
+[2024-09-15 20:14:57,568] {processor.py:153} INFO - Started process (PID=13642) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:14:57,568] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:14:57,569] {logging_mixin.py:115} INFO - [2024-09-15 20:14:57,569] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:14:57,886] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:14:57,893] {logging_mixin.py:115} INFO - [2024-09-15 20:14:57,893] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:14:57,903] {logging_mixin.py:115} INFO - [2024-09-15 20:14:57,902] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-05T00:00:00+00:00, run_after=2024-01-06T00:00:00+00:00
+[2024-09-15 20:14:57,914] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.348 seconds
+[2024-09-15 20:15:28,621] {processor.py:153} INFO - Started process (PID=13686) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:15:28,621] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:15:28,622] {logging_mixin.py:115} INFO - [2024-09-15 20:15:28,622] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:15:28,936] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:15:28,961] {logging_mixin.py:115} INFO - [2024-09-15 20:15:28,961] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:15:28,965] {logging_mixin.py:115} INFO - [2024-09-15 20:15:28,965] {dag.py:2398} INFO - Creating ORM DAG for BRONZER_GET_STONCKS
+[2024-09-15 20:15:28,972] {logging_mixin.py:115} INFO - [2024-09-15 20:15:28,971] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-02T00:00:00+00:00, run_after=2024-01-03T00:00:00+00:00
+[2024-09-15 20:15:28,984] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.366 seconds
+[2024-09-15 20:16:05,309] {processor.py:153} INFO - Started process (PID=13840) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:16:05,309] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:16:05,310] {logging_mixin.py:115} INFO - [2024-09-15 20:16:05,310] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:16:05,625] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:16:05,633] {logging_mixin.py:115} INFO - [2024-09-15 20:16:05,632] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:16:05,643] {logging_mixin.py:115} INFO - [2024-09-15 20:16:05,643] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-06T00:00:00+00:00, run_after=2024-01-09T00:00:00+00:00
+[2024-09-15 20:16:05,654] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.348 seconds
+[2024-09-15 20:16:35,986] {processor.py:153} INFO - Started process (PID=13921) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:16:35,987] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:16:35,987] {logging_mixin.py:115} INFO - [2024-09-15 20:16:35,987] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:16:36,296] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:16:36,303] {logging_mixin.py:115} INFO - [2024-09-15 20:16:36,303] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:16:36,313] {logging_mixin.py:115} INFO - [2024-09-15 20:16:36,313] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-10T00:00:00+00:00, run_after=2024-01-11T00:00:00+00:00
+[2024-09-15 20:16:36,323] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.339 seconds
+[2024-09-15 20:17:17,518] {processor.py:153} INFO - Started process (PID=13997) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:17:17,519] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:17:17,519] {logging_mixin.py:115} INFO - [2024-09-15 20:17:17,519] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:17:17,817] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:17:17,824] {logging_mixin.py:115} INFO - [2024-09-15 20:17:17,824] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:17:17,834] {logging_mixin.py:115} INFO - [2024-09-15 20:17:17,834] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-12T00:00:00+00:00, run_after=2024-01-13T00:00:00+00:00
+[2024-09-15 20:17:17,844] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.329 seconds
+[2024-09-15 20:17:55,640] {processor.py:153} INFO - Started process (PID=14070) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:17:55,641] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:17:55,641] {logging_mixin.py:115} INFO - [2024-09-15 20:17:55,641] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:17:55,945] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:17:55,952] {logging_mixin.py:115} INFO - [2024-09-15 20:17:55,952] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:17:55,962] {logging_mixin.py:115} INFO - [2024-09-15 20:17:55,962] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-16T00:00:00+00:00, run_after=2024-01-17T00:00:00+00:00
+[2024-09-15 20:17:55,973] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.336 seconds
+[2024-09-15 20:18:38,225] {processor.py:153} INFO - Started process (PID=14143) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:18:38,226] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:18:38,227] {logging_mixin.py:115} INFO - [2024-09-15 20:18:38,226] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:18:38,545] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:18:38,553] {logging_mixin.py:115} INFO - [2024-09-15 20:18:38,553] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:18:38,563] {logging_mixin.py:115} INFO - [2024-09-15 20:18:38,563] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-18T00:00:00+00:00, run_after=2024-01-19T00:00:00+00:00
+[2024-09-15 20:18:38,576] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.354 seconds
+[2024-09-15 20:19:20,996] {processor.py:153} INFO - Started process (PID=14216) to work on /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:19:20,997] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py for tasks to queue
+[2024-09-15 20:19:20,997] {logging_mixin.py:115} INFO - [2024-09-15 20:19:20,997] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:19:21,296] {processor.py:651} INFO - DAG(s) dict_keys(['BRONZER_GET_STONCKS']) retrieved from /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py
+[2024-09-15 20:19:21,303] {logging_mixin.py:115} INFO - [2024-09-15 20:19:21,303] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 20:19:21,313] {logging_mixin.py:115} INFO - [2024-09-15 20:19:21,313] {dag.py:2927} INFO - Setting next_dagrun for BRONZER_GET_STONCKS to 2024-01-20T00:00:00+00:00, run_after=2024-01-23T00:00:00+00:00
+[2024-09-15 20:19:21,326] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/dags/get_stocks.py took 0.332 seconds

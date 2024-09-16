@@ -1,0 +1,24 @@
+[2024-09-15 23:28:41,138] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: BRONZER_GET_STONCKS.BRONZE_MSFT scheduled__2024-01-25T00:00:00+00:00 [queued]>
+[2024-09-15 23:28:41,143] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: BRONZER_GET_STONCKS.BRONZE_MSFT scheduled__2024-01-25T00:00:00+00:00 [queued]>
+[2024-09-15 23:28:41,143] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2024-09-15 23:28:41,143] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2024-09-15 23:28:41,143] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2024-09-15 23:28:41,154] {taskinstance.py:1377} INFO - Executing <Task(_PythonDecoratedOperator): BRONZE_MSFT> on 2024-01-25 00:00:00+00:00
+[2024-09-15 23:28:41,156] {standard_task_runner.py:52} INFO - Started process 14432 to run task
+[2024-09-15 23:28:41,158] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'BRONZER_GET_STONCKS', 'BRONZE_MSFT', 'scheduled__2024-01-25T00:00:00+00:00', '--job-id', '129', '--raw', '--subdir', 'DAGS_FOLDER/get_stocks.py', '--cfg-path', '/tmp/tmpcmcx3x07', '--error-file', '/tmp/tmp088v836q']
+[2024-09-15 23:28:41,159] {standard_task_runner.py:80} INFO - Job 129: Subtask BRONZE_MSFT
+[2024-09-15 23:28:41,187] {task_command.py:370} INFO - Running <TaskInstance: BRONZER_GET_STONCKS.BRONZE_MSFT scheduled__2024-01-25T00:00:00+00:00 [running]> on host kaiwang.
+[2024-09-15 23:28:41,227] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=BRONZER_GET_STONCKS
+AIRFLOW_CTX_TASK_ID=BRONZE_MSFT
+AIRFLOW_CTX_EXECUTION_DATE=2024-01-25T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2024-01-25T00:00:00+00:00
+[2024-09-15 23:28:43,922] {history.py:244} ERROR - $MSFT: possibly delisted; no price data found  (1h 2024-01-22 -> 2024-01-03) (Yahoo error = "Invalid input - start date cannot be after end date. startDate = 1705899600, endDate = 1704258000")
+[2024-09-15 23:28:43,924] {python.py:173} INFO - Done. Returned value was: None
+[2024-09-15 23:28:43,928] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=BRONZER_GET_STONCKS, task_id=BRONZE_MSFT, execution_date=20240125T000000, start_date=20240916T022841, end_date=20240916T022843
+[2024-09-15 23:28:43,946] {local_task_job.py:156} INFO - Task exited with return code 0
+[2024-09-15 23:28:43,956] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

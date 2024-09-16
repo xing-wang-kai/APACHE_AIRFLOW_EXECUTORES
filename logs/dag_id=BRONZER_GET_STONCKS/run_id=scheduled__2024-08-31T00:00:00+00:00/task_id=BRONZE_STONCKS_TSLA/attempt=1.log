@@ -1,0 +1,46 @@
+[2024-09-16 00:07:36,835] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: BRONZER_GET_STONCKS.BRONZE_STONCKS_TSLA scheduled__2024-08-31T00:00:00+00:00 [queued]>
+[2024-09-16 00:07:36,882] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: BRONZER_GET_STONCKS.BRONZE_STONCKS_TSLA scheduled__2024-08-31T00:00:00+00:00 [queued]>
+[2024-09-16 00:07:36,883] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2024-09-16 00:07:36,883] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2024-09-16 00:07:36,883] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2024-09-16 00:07:36,960] {taskinstance.py:1377} INFO - Executing <Task(_PythonDecoratedOperator): BRONZE_STONCKS_TSLA> on 2024-08-31 00:00:00+00:00
+[2024-09-16 00:07:36,968] {standard_task_runner.py:52} INFO - Started process 39968 to run task
+[2024-09-16 00:07:37,003] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'BRONZER_GET_STONCKS', 'BRONZE_STONCKS_TSLA', 'scheduled__2024-08-31T00:00:00+00:00', '--job-id', '1279', '--raw', '--subdir', 'DAGS_FOLDER/get_stocks.py', '--cfg-path', '/tmp/tmpi08u03bp', '--error-file', '/tmp/tmpvm4d23qx']
+[2024-09-16 00:07:37,021] {standard_task_runner.py:80} INFO - Job 1279: Subtask BRONZE_STONCKS_TSLA
+[2024-09-16 00:07:37,383] {task_command.py:370} INFO - Running <TaskInstance: BRONZER_GET_STONCKS.BRONZE_STONCKS_TSLA scheduled__2024-08-31T00:00:00+00:00 [running]> on host kaiwang.
+[2024-09-16 00:07:37,737] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=BRONZER_GET_STONCKS
+AIRFLOW_CTX_TASK_ID=BRONZE_STONCKS_TSLA
+AIRFLOW_CTX_EXECUTION_DATE=2024-08-31T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2024-08-31T00:00:00+00:00
+[2024-09-16 00:07:38,335] {python.py:173} INFO - Done. Returned value was: None
+[2024-09-16 00:07:38,483] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=BRONZER_GET_STONCKS, task_id=BRONZE_STONCKS_TSLA, execution_date=20240831T000000, start_date=20240916T030736, end_date=20240916T030738
+[2024-09-16 00:07:38,538] {local_task_job.py:156} INFO - Task exited with return code 0
+[2024-09-16 00:07:38,641] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-09-16 13:56:33,704] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: BRONZER_GET_STONCKS.BRONZE_STONCKS_TSLA scheduled__2024-08-31T00:00:00+00:00 [queued]>
+[2024-09-16 13:56:33,727] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: BRONZER_GET_STONCKS.BRONZE_STONCKS_TSLA scheduled__2024-08-31T00:00:00+00:00 [queued]>
+[2024-09-16 13:56:33,727] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2024-09-16 13:56:33,727] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2024-09-16 13:56:33,727] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2024-09-16 13:56:33,758] {taskinstance.py:1377} INFO - Executing <Task(_PythonDecoratedOperator): BRONZE_STONCKS_TSLA> on 2024-08-31 00:00:00+00:00
+[2024-09-16 13:56:33,774] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'BRONZER_GET_STONCKS', 'BRONZE_STONCKS_TSLA', 'scheduled__2024-08-31T00:00:00+00:00', '--job-id', '2611', '--raw', '--subdir', 'DAGS_FOLDER/get_stocks.py', '--cfg-path', '/tmp/tmpxy19f677', '--error-file', '/tmp/tmp1y2hlr9b']
+[2024-09-16 13:56:33,777] {standard_task_runner.py:80} INFO - Job 2611: Subtask BRONZE_STONCKS_TSLA
+[2024-09-16 13:56:33,768] {standard_task_runner.py:52} INFO - Started process 139628 to run task
+[2024-09-16 13:56:33,963] {task_command.py:370} INFO - Running <TaskInstance: BRONZER_GET_STONCKS.BRONZE_STONCKS_TSLA scheduled__2024-08-31T00:00:00+00:00 [running]> on host kaiwang.
+[2024-09-16 13:56:34,318] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=BRONZER_GET_STONCKS
+AIRFLOW_CTX_TASK_ID=BRONZE_STONCKS_TSLA
+AIRFLOW_CTX_EXECUTION_DATE=2024-08-31T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2024-08-31T00:00:00+00:00
+[2024-09-16 13:56:34,900] {python.py:173} INFO - Done. Returned value was: None
+[2024-09-16 13:56:34,936] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=BRONZER_GET_STONCKS, task_id=BRONZE_STONCKS_TSLA, execution_date=20240831T000000, start_date=20240916T165633, end_date=20240916T165634
+[2024-09-16 13:56:34,984] {local_task_job.py:156} INFO - Task exited with return code 0
+[2024-09-16 13:56:35,045] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

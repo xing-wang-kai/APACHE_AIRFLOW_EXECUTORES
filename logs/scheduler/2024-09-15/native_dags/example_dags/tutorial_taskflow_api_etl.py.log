@@ -1,0 +1,32 @@
+[2024-09-15 19:01:57,593] {processor.py:153} INFO - Started process (PID=9975) to work on /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-09-15 19:01:57,594] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-09-15 19:01:57,594] {logging_mixin.py:115} INFO - [2024-09-15 19:01:57,594] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-09-15 19:01:57,607] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-09-15 19:01:57,657] {logging_mixin.py:115} INFO - [2024-09-15 19:01:57,657] {manager.py:508} INFO - Created Permission View: can edit on DAG:tutorial_taskflow_api_etl
+[2024-09-15 19:01:57,666] {logging_mixin.py:115} INFO - [2024-09-15 19:01:57,666] {manager.py:508} INFO - Created Permission View: can read on DAG:tutorial_taskflow_api_etl
+[2024-09-15 19:01:57,673] {logging_mixin.py:115} INFO - [2024-09-15 19:01:57,673] {manager.py:508} INFO - Created Permission View: can delete on DAG:tutorial_taskflow_api_etl
+[2024-09-15 19:01:57,673] {logging_mixin.py:115} INFO - [2024-09-15 19:01:57,673] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 19:01:57,678] {logging_mixin.py:115} INFO - [2024-09-15 19:01:57,678] {dag.py:2398} INFO - Creating ORM DAG for tutorial_taskflow_api_etl
+[2024-09-15 19:01:57,684] {logging_mixin.py:115} INFO - [2024-09-15 19:01:57,684] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-09-15 19:01:57,695] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.104 seconds
+[2024-09-15 19:02:33,511] {processor.py:153} INFO - Started process (PID=10019) to work on /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-09-15 19:02:33,513] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-09-15 19:02:33,513] {logging_mixin.py:115} INFO - [2024-09-15 19:02:33,513] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-09-15 19:02:33,534] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-09-15 19:02:33,566] {logging_mixin.py:115} INFO - [2024-09-15 19:02:33,566] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 19:02:33,576] {logging_mixin.py:115} INFO - [2024-09-15 19:02:33,576] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-09-15 19:02:33,590] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.083 seconds
+[2024-09-15 19:03:04,066] {processor.py:153} INFO - Started process (PID=10053) to work on /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-09-15 19:03:04,067] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-09-15 19:03:04,067] {logging_mixin.py:115} INFO - [2024-09-15 19:03:04,067] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-09-15 19:03:04,081] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-09-15 19:03:04,111] {logging_mixin.py:115} INFO - [2024-09-15 19:03:04,111] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 19:03:04,120] {logging_mixin.py:115} INFO - [2024-09-15 19:03:04,120] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-09-15 19:03:04,133] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.070 seconds
+[2024-09-15 19:03:35,030] {processor.py:153} INFO - Started process (PID=10102) to work on /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-09-15 19:03:35,030] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-09-15 19:03:35,031] {logging_mixin.py:115} INFO - [2024-09-15 19:03:35,031] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-09-15 19:03:35,047] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-09-15 19:03:35,060] {logging_mixin.py:115} INFO - [2024-09-15 19:03:35,060] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 19:03:35,077] {logging_mixin.py:115} INFO - [2024-09-15 19:03:35,077] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-09-15 19:03:35,090] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.062 seconds

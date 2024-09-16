@@ -1,0 +1,32 @@
+[2024-09-15 19:02:12,534] {processor.py:153} INFO - Started process (PID=9993) to work on /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-15 19:02:12,534] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-09-15 19:02:12,535] {logging_mixin.py:115} INFO - [2024-09-15 19:02:12,535] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-15 19:02:12,549] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-15 19:02:12,596] {logging_mixin.py:115} INFO - [2024-09-15 19:02:12,596] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_sla_dag
+[2024-09-15 19:02:12,604] {logging_mixin.py:115} INFO - [2024-09-15 19:02:12,604] {manager.py:508} INFO - Created Permission View: can read on DAG:example_sla_dag
+[2024-09-15 19:02:12,611] {logging_mixin.py:115} INFO - [2024-09-15 19:02:12,611] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_sla_dag
+[2024-09-15 19:02:12,611] {logging_mixin.py:115} INFO - [2024-09-15 19:02:12,611] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 19:02:12,616] {logging_mixin.py:115} INFO - [2024-09-15 19:02:12,616] {dag.py:2398} INFO - Creating ORM DAG for example_sla_dag
+[2024-09-15 19:02:12,624] {logging_mixin.py:115} INFO - [2024-09-15 19:02:12,624] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2024-09-15T22:00:00+00:00, run_after=2024-09-15T22:02:00+00:00
+[2024-09-15 19:02:12,636] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.104 seconds
+[2024-09-15 19:02:47,430] {processor.py:153} INFO - Started process (PID=10033) to work on /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-15 19:02:47,431] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-09-15 19:02:47,432] {logging_mixin.py:115} INFO - [2024-09-15 19:02:47,432] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-15 19:02:47,445] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-15 19:02:47,456] {logging_mixin.py:115} INFO - [2024-09-15 19:02:47,456] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 19:02:47,472] {logging_mixin.py:115} INFO - [2024-09-15 19:02:47,472] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2024-09-15T22:00:00+00:00, run_after=2024-09-15T22:02:00+00:00
+[2024-09-15 19:02:47,483] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.055 seconds
+[2024-09-15 19:03:20,006] {processor.py:153} INFO - Started process (PID=10076) to work on /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-15 19:03:20,008] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-09-15 19:03:20,008] {logging_mixin.py:115} INFO - [2024-09-15 19:03:20,008] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-15 19:03:20,023] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-15 19:03:20,035] {logging_mixin.py:115} INFO - [2024-09-15 19:03:20,035] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 19:03:20,052] {logging_mixin.py:115} INFO - [2024-09-15 19:03:20,052] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2024-09-15T22:00:00+00:00, run_after=2024-09-15T22:02:00+00:00
+[2024-09-15 19:03:20,063] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.059 seconds
+[2024-09-15 19:03:54,216] {processor.py:153} INFO - Started process (PID=10135) to work on /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-15 19:03:54,217] {processor.py:641} INFO - Processing file /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-09-15 19:03:54,217] {logging_mixin.py:115} INFO - [2024-09-15 19:03:54,217] {dagbag.py:507} INFO - Filling up the DagBag from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-15 19:03:54,231] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-15 19:03:54,242] {logging_mixin.py:115} INFO - [2024-09-15 19:03:54,242] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-09-15 19:03:54,258] {logging_mixin.py:115} INFO - [2024-09-15 19:03:54,257] {dag.py:2927} INFO - Setting next_dagrun for example_sla_dag to 2024-09-15T22:00:00+00:00, run_after=2024-09-15T22:02:00+00:00
+[2024-09-15 19:03:54,268] {processor.py:161} INFO - Processing /home/kaiwang/Documents/airflow_celeby/venv/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.055 seconds

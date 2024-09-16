@@ -1,0 +1,46 @@
+[2024-09-16 00:08:13,265] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: BRONZER_GET_CRIPTOS.BRONZE_CRIPTO_ETH scheduled__2024-08-24T00:00:00+00:00 [queued]>
+[2024-09-16 00:08:13,276] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: BRONZER_GET_CRIPTOS.BRONZE_CRIPTO_ETH scheduled__2024-08-24T00:00:00+00:00 [queued]>
+[2024-09-16 00:08:13,276] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2024-09-16 00:08:13,276] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2024-09-16 00:08:13,276] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2024-09-16 00:08:13,313] {taskinstance.py:1377} INFO - Executing <Task(_PythonDecoratedOperator): BRONZE_CRIPTO_ETH> on 2024-08-24 00:00:00+00:00
+[2024-09-16 00:08:13,319] {standard_task_runner.py:52} INFO - Started process 42386 to run task
+[2024-09-16 00:08:13,347] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'BRONZER_GET_CRIPTOS', 'BRONZE_CRIPTO_ETH', 'scheduled__2024-08-24T00:00:00+00:00', '--job-id', '1417', '--raw', '--subdir', 'DAGS_FOLDER/get_cripto.py', '--cfg-path', '/tmp/tmpixg3rx8q', '--error-file', '/tmp/tmpp251v154']
+[2024-09-16 00:08:13,348] {standard_task_runner.py:80} INFO - Job 1417: Subtask BRONZE_CRIPTO_ETH
+[2024-09-16 00:08:13,539] {task_command.py:370} INFO - Running <TaskInstance: BRONZER_GET_CRIPTOS.BRONZE_CRIPTO_ETH scheduled__2024-08-24T00:00:00+00:00 [running]> on host kaiwang.
+[2024-09-16 00:08:13,716] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=BRONZER_GET_CRIPTOS
+AIRFLOW_CTX_TASK_ID=BRONZE_CRIPTO_ETH
+AIRFLOW_CTX_EXECUTION_DATE=2024-08-24T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2024-08-24T00:00:00+00:00
+[2024-09-16 00:08:14,242] {python.py:173} INFO - Done. Returned value was: None
+[2024-09-16 00:08:14,257] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=BRONZER_GET_CRIPTOS, task_id=BRONZE_CRIPTO_ETH, execution_date=20240824T000000, start_date=20240916T030813, end_date=20240916T030814
+[2024-09-16 00:08:14,277] {local_task_job.py:156} INFO - Task exited with return code 0
+[2024-09-16 00:08:14,314] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-09-16 13:56:25,726] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: BRONZER_GET_CRIPTOS.BRONZE_CRIPTO_ETH scheduled__2024-08-24T00:00:00+00:00 [queued]>
+[2024-09-16 13:56:25,740] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: BRONZER_GET_CRIPTOS.BRONZE_CRIPTO_ETH scheduled__2024-08-24T00:00:00+00:00 [queued]>
+[2024-09-16 13:56:25,740] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2024-09-16 13:56:25,740] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2024-09-16 13:56:25,740] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2024-09-16 13:56:25,758] {taskinstance.py:1377} INFO - Executing <Task(_PythonDecoratedOperator): BRONZE_CRIPTO_ETH> on 2024-08-24 00:00:00+00:00
+[2024-09-16 13:56:25,764] {standard_task_runner.py:52} INFO - Started process 138892 to run task
+[2024-09-16 13:56:25,771] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'BRONZER_GET_CRIPTOS', 'BRONZE_CRIPTO_ETH', 'scheduled__2024-08-24T00:00:00+00:00', '--job-id', '2577', '--raw', '--subdir', 'DAGS_FOLDER/get_cripto.py', '--cfg-path', '/tmp/tmpi97fp8us', '--error-file', '/tmp/tmpyinzaqt5']
+[2024-09-16 13:56:25,772] {standard_task_runner.py:80} INFO - Job 2577: Subtask BRONZE_CRIPTO_ETH
+[2024-09-16 13:56:25,914] {task_command.py:370} INFO - Running <TaskInstance: BRONZER_GET_CRIPTOS.BRONZE_CRIPTO_ETH scheduled__2024-08-24T00:00:00+00:00 [running]> on host kaiwang.
+[2024-09-16 13:56:26,315] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=BRONZER_GET_CRIPTOS
+AIRFLOW_CTX_TASK_ID=BRONZE_CRIPTO_ETH
+AIRFLOW_CTX_EXECUTION_DATE=2024-08-24T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2024-08-24T00:00:00+00:00
+[2024-09-16 13:56:27,839] {python.py:173} INFO - Done. Returned value was: None
+[2024-09-16 13:56:27,875] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=BRONZER_GET_CRIPTOS, task_id=BRONZE_CRIPTO_ETH, execution_date=20240824T000000, start_date=20240916T165625, end_date=20240916T165627
+[2024-09-16 13:56:27,937] {local_task_job.py:156} INFO - Task exited with return code 0
+[2024-09-16 13:56:27,995] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

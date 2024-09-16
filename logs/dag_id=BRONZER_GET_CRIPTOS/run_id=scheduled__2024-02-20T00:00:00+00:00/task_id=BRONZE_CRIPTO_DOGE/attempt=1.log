@@ -1,0 +1,74 @@
+[2024-09-16 00:04:05,759] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: BRONZER_GET_CRIPTOS.BRONZE_CRIPTO_DOGE scheduled__2024-02-20T00:00:00+00:00 [queued]>
+[2024-09-16 00:04:05,904] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: BRONZER_GET_CRIPTOS.BRONZE_CRIPTO_DOGE scheduled__2024-02-20T00:00:00+00:00 [queued]>
+[2024-09-16 00:04:05,904] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2024-09-16 00:04:05,904] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2024-09-16 00:04:05,904] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2024-09-16 00:04:06,050] {taskinstance.py:1377} INFO - Executing <Task(_PythonDecoratedOperator): BRONZE_CRIPTO_DOGE> on 2024-02-20 00:00:00+00:00
+[2024-09-16 00:04:06,056] {standard_task_runner.py:52} INFO - Started process 22939 to run task
+[2024-09-16 00:04:06,093] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'BRONZER_GET_CRIPTOS', 'BRONZE_CRIPTO_DOGE', 'scheduled__2024-02-20T00:00:00+00:00', '--job-id', '287', '--raw', '--subdir', 'DAGS_FOLDER/get_cripto.py', '--cfg-path', '/tmp/tmp5gxl_k5j', '--error-file', '/tmp/tmp2hyp_i3y']
+[2024-09-16 00:04:06,094] {standard_task_runner.py:80} INFO - Job 287: Subtask BRONZE_CRIPTO_DOGE
+[2024-09-16 00:04:06,424] {task_command.py:370} INFO - Running <TaskInstance: BRONZER_GET_CRIPTOS.BRONZE_CRIPTO_DOGE scheduled__2024-02-20T00:00:00+00:00 [running]> on host kaiwang.
+[2024-09-16 00:04:07,441] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=BRONZER_GET_CRIPTOS
+AIRFLOW_CTX_TASK_ID=BRONZE_CRIPTO_DOGE
+AIRFLOW_CTX_EXECUTION_DATE=2024-02-20T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2024-02-20T00:00:00+00:00
+[2024-09-16 00:04:10,359] {history.py:122} ERROR - $DOGE: possibly delisted; no timezone found
+[2024-09-16 00:04:10,365] {python.py:173} INFO - Done. Returned value was: None
+[2024-09-16 00:04:10,411] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=BRONZER_GET_CRIPTOS, task_id=BRONZE_CRIPTO_DOGE, execution_date=20240220T000000, start_date=20240916T030405, end_date=20240916T030410
+[2024-09-16 00:04:10,475] {local_task_job.py:156} INFO - Task exited with return code 0
+[2024-09-16 00:04:10,992] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-09-16 00:13:47,735] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: BRONZER_GET_CRIPTOS.BRONZE_CRIPTO_DOGE scheduled__2024-02-20T00:00:00+00:00 [queued]>
+[2024-09-16 00:13:47,775] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: BRONZER_GET_CRIPTOS.BRONZE_CRIPTO_DOGE scheduled__2024-02-20T00:00:00+00:00 [queued]>
+[2024-09-16 00:13:47,775] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2024-09-16 00:13:47,775] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2024-09-16 00:13:47,775] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2024-09-16 00:13:47,810] {taskinstance.py:1377} INFO - Executing <Task(_PythonDecoratedOperator): BRONZE_CRIPTO_DOGE> on 2024-02-20 00:00:00+00:00
+[2024-09-16 00:13:47,840] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'BRONZER_GET_CRIPTOS', 'BRONZE_CRIPTO_DOGE', 'scheduled__2024-02-20T00:00:00+00:00', '--job-id', '1777', '--raw', '--subdir', 'DAGS_FOLDER/get_cripto.py', '--cfg-path', '/tmp/tmprnovytih', '--error-file', '/tmp/tmp06zsgl0p']
+[2024-09-16 00:13:47,842] {standard_task_runner.py:80} INFO - Job 1777: Subtask BRONZE_CRIPTO_DOGE
+[2024-09-16 00:13:47,832] {standard_task_runner.py:52} INFO - Started process 48910 to run task
+[2024-09-16 00:13:48,012] {task_command.py:370} INFO - Running <TaskInstance: BRONZER_GET_CRIPTOS.BRONZE_CRIPTO_DOGE scheduled__2024-02-20T00:00:00+00:00 [running]> on host kaiwang.
+[2024-09-16 00:13:48,191] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=BRONZER_GET_CRIPTOS
+AIRFLOW_CTX_TASK_ID=BRONZE_CRIPTO_DOGE
+AIRFLOW_CTX_EXECUTION_DATE=2024-02-20T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2024-02-20T00:00:00+00:00
+[2024-09-16 00:13:51,503] {history.py:122} ERROR - $DOGE: possibly delisted; no timezone found
+[2024-09-16 00:13:51,506] {python.py:173} INFO - Done. Returned value was: None
+[2024-09-16 00:13:51,520] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=BRONZER_GET_CRIPTOS, task_id=BRONZE_CRIPTO_DOGE, execution_date=20240220T000000, start_date=20240916T031347, end_date=20240916T031351
+[2024-09-16 00:13:51,563] {local_task_job.py:156} INFO - Task exited with return code 0
+[2024-09-16 00:13:51,607] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-09-16 00:13:51,639] {dagrun.py:562} INFO - Marking run <DagRun BRONZER_GET_CRIPTOS @ 2024-02-20 00:00:00+00:00: scheduled__2024-02-20T00:00:00+00:00, externally triggered: False> successful
+[2024-09-16 00:13:51,639] {dagrun.py:607} INFO - DagRun Finished: dag_id=BRONZER_GET_CRIPTOS, execution_date=2024-02-20 00:00:00+00:00, run_id=scheduled__2024-02-20T00:00:00+00:00, run_start_date=2024-09-16 03:13:35.866921+00:00, run_end_date=2024-09-16 03:13:51.639697+00:00, run_duration=15.772776, state=success, external_trigger=False, run_type=scheduled, data_interval_start=2024-02-20 00:00:00+00:00, data_interval_end=2024-02-21 00:00:00+00:00, dag_hash=1b0e05745af7e62e6f3fe786bbb48ff8
+[2024-09-16 00:15:22,858] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: BRONZER_GET_CRIPTOS.BRONZE_CRIPTO_DOGE scheduled__2024-02-20T00:00:00+00:00 [queued]>
+[2024-09-16 00:15:22,918] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: BRONZER_GET_CRIPTOS.BRONZE_CRIPTO_DOGE scheduled__2024-02-20T00:00:00+00:00 [queued]>
+[2024-09-16 00:15:22,918] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2024-09-16 00:15:22,918] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2024-09-16 00:15:22,918] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2024-09-16 00:15:22,980] {taskinstance.py:1377} INFO - Executing <Task(_PythonDecoratedOperator): BRONZE_CRIPTO_DOGE> on 2024-02-20 00:00:00+00:00
+[2024-09-16 00:15:22,988] {standard_task_runner.py:52} INFO - Started process 54317 to run task
+[2024-09-16 00:15:23,016] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'BRONZER_GET_CRIPTOS', 'BRONZE_CRIPTO_DOGE', 'scheduled__2024-02-20T00:00:00+00:00', '--job-id', '2090', '--raw', '--subdir', 'DAGS_FOLDER/get_cripto.py', '--cfg-path', '/tmp/tmpx8kei_m7', '--error-file', '/tmp/tmpm5uvoxne']
+[2024-09-16 00:15:23,017] {standard_task_runner.py:80} INFO - Job 2090: Subtask BRONZE_CRIPTO_DOGE
+[2024-09-16 00:15:23,312] {task_command.py:370} INFO - Running <TaskInstance: BRONZER_GET_CRIPTOS.BRONZE_CRIPTO_DOGE scheduled__2024-02-20T00:00:00+00:00 [running]> on host kaiwang.
+[2024-09-16 00:15:23,722] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=BRONZER_GET_CRIPTOS
+AIRFLOW_CTX_TASK_ID=BRONZE_CRIPTO_DOGE
+AIRFLOW_CTX_EXECUTION_DATE=2024-02-20T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2024-02-20T00:00:00+00:00
+[2024-09-16 00:15:27,295] {history.py:122} ERROR - $DOGE: possibly delisted; no timezone found
+[2024-09-16 00:15:27,299] {python.py:173} INFO - Done. Returned value was: None
+[2024-09-16 00:15:27,370] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=BRONZER_GET_CRIPTOS, task_id=BRONZE_CRIPTO_DOGE, execution_date=20240220T000000, start_date=20240916T031522, end_date=20240916T031527
+[2024-09-16 00:15:27,459] {local_task_job.py:156} INFO - Task exited with return code 0
+[2024-09-16 00:15:27,851] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check
